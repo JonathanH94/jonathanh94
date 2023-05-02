@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hi I'm Jonathan Hateley,
+
+I'm passionate about data and the role it plays as the lifeblood of the 21st century economy, the insights you can gain from it, and how it can help provide context and/or inform decisions. You'll find a collection of projects that demonstrate some of my skills in data analysis, such as, SQL database building, SQL query writing, data visualisation, and data cleaning.
+
+If you're looking for a junior data analyst with a strong technical foundation and a passion for data-driven decision-making, I'd love to connect and explore opportunities to work together.
 
 <!--
 **JonathanH94/jonathanh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am seeking a Junior Data Analyst position in a dynamic organisation
+that will offer a rewarding work environment with a winning team,
+where I can utilise my analytical skills and learn and grow in the field of
+data analysis
 
 Here are some ideas to get you started:
 
