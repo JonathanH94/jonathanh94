@@ -1,6 +1,6 @@
 ### Hi I'm Jonathan Hateley,
 
-I'm a Junior Data Engineer working in the Healthcare industry. I primarily work with SQL day-to-day, with some support from Python and PowerShell to build ETL pipelines and automate other daily tasks.  
+I'm a Data Engineer working in the Healthcare industry. I primarily work with SQL day-to-day, with some support from Python and PowerShell to build ETL pipelines and automate other daily tasks.  
 
 I'm always looking to expand my skills and knowledge, so you will find a collection of projects on my page, where I have experimented with Programming languages outside the normal scope of Data Engineering. 
 <!--
