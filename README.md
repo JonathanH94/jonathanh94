@@ -3,7 +3,7 @@
 I'm a Data Engineer working in the Healthcare industry, building scalable systems to support business intelligence, reporting, and operational workflows.
 
 
-I mainly work with SQL, Python, and PowerShell to create ETL pipelines, automate tasks, and develop backend services. 
+I work with SQL, Python, and PowerShell to build ETL pipelines, automate tasks, and develop backend services such as internal APIs, file exporters, and email senders that streamline workflows and ensure reliable data access.
 
 I'm passionate about expanding my skills beyond traditional Data Engineering, so you'll find a variety of projects here where I experiment with programming languages and technologies outside my usual scope.
 
