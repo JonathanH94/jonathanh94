@@ -1,8 +1,14 @@
 ### Hi I'm Jonathan Hateley,
 
-I'm a Data Engineer working in the Healthcare industry. I primarily work with SQL day-to-day, with some support from Python and PowerShell to build ETL pipelines and automate other daily tasks.  
+I'm a Data Engineer working in the Healthcare industry, building scalable systems to support business intelligence, reporting, and operational workflows.
 
-I'm always looking to expand my skills and knowledge, so you will find a collection of projects on my page, where I have experimented with Programming languages outside the normal scope of Data Engineering. 
+
+I mainly work with SQL, Python, and PowerShell to create ETL pipelines, automate tasks, and develop backend services. 
+
+I'm passionate about expanding my skills beyond traditional Data Engineering, so you'll find a variety of projects here where I experiment with programming languages and technologies outside my usual scope.
+
+Feel free to explore my repositories and connect!
+
 <!--
 **JonathanH94/jonathanh94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
